@@ -14,10 +14,10 @@
 
 - **In most scenarios, we can only decide whether buy or not by an NFT's price, appearance and maybe perks. There are fewer ways to develop a deeper bond with the collections.**  
 There're too many NFT projects(especially PFP genre) has few utilities except being used as a profile picture. The potentialities are out there to be developed.  
-Projects such as Fabricant, Loots, and Some.place are providing objects in the metaverse. However, the owner of these objects should have the power to re-utilise them.
+Some projects are providing objects in the metaverse. However, the owner of these objects should have the power to re-utilise them.
 
 - **Most NFT collections lack practical use cases, and holders cannot be a part of the creation process or offer their talents to the projects.**  
-Nowadays, few projects involve holders as builders during the creation. Even for the projects that support customisation(e.g. Flovatar and MetaSoul), an owner of NFTs is still limited to the preset options provided by the project teams.  
+Nowadays, few projects involve holders as builders during the creation. Even for the projects that support customisation, an owner of NFTs is still limited to the preset options provided by the project teams.  
 The thresholds for being a creator/builder are still very high for most participants, either for the creating skills or coding abilities. Moreover, growing audiences from zero to one is also a pain point for the creators.
 
 
